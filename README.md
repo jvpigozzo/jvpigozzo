@@ -1,6 +1,6 @@
 # 👋 Hello, I'm João Vitor Pigozzo
 
-#### I'm an Economist with a postgraduate degree in Data Science and a Software Developer.
+#### I'm an Economist with a postgraduate degree in Data Science and a Software Engineer.
 #### Passionate about tech and data.
 
 <p align="left">
