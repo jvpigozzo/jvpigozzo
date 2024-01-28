@@ -19,17 +19,18 @@
   </a>
 </p>
 
+
 ### Programming Languages
 | <img src="https://github.com/jvpigozzo/jvpigozzo/assets/90119927/72a69196-8494-416e-a154-b855633a1bd1" width="100"> | <img src="https://github.com/jvpigozzo/jvpigozzo/assets/90119927/60c30005-8f22-48c8-a1b9-7ffcc9b1badb" width="100"> 
 |:---:|:---:|
 
 ### Frameworks
-| <img src="https://github.com/jvpigozzo/jvpigozzo/assets/90119927/8b2e2271-83df-44ab-b2d0-7d1d2c7547b1" width="100"> | <img src="https://github.com/jvpigozzo/jvpigozzo/assets/90119927/b0e39517-7440-4742-aacb-024ee0b86ddb" width="100">
-|:---:|:---:|
+| <img src="https://github.com/jvpigozzo/jvpigozzo/assets/90119927/8b2e2271-83df-44ab-b2d0-7d1d2c7547b1" width="100"> | <img src="https://github.com/jvpigozzo/jvpigozzo/assets/90119927/b0e39517-7440-4742-aacb-024ee0b86ddb" width="100"> | <img src="https://github.com/jvpigozzo/jvpigozzo/assets/90119927/18959dd7-89fc-4420-ae92-e8e1b60511e2" width="100">
+|:---:|:---:|:---:|
 
 ### Infrastructure
-| <img src="https://github.com/jvpigozzo/jvpigozzo/assets/90119927/da632ec5-3b74-4ea7-8764-360a8f0a4838" width="100"> | <img src="https://github.com/jvpigozzo/jvpigozzo/assets/90119927/32f2fe1e-e9b1-4395-9112-014cfa93f3cd" width="100">
-|:---:|:---:|
+| <img src="https://github.com/jvpigozzo/jvpigozzo/assets/90119927/da632ec5-3b74-4ea7-8764-360a8f0a4838" width="100"> | <img src="https://github.com/jvpigozzo/jvpigozzo/assets/90119927/32f2fe1e-e9b1-4395-9112-014cfa93f3cd" width="100"> | <img src="https://github.com/jvpigozzo/jvpigozzo/assets/90119927/bb235b57-2b42-443f-9aca-249be2db8a13" width="100">
+|:---:|:---:|:---:|
 
 ### Database
 | <img src="https://github.com/jvpigozzo/jvpigozzo/assets/90119927/f0cc4944-8867-4f15-aec3-1d1c110ff48c" width="100"> | <img src="https://github.com/jvpigozzo/jvpigozzo/assets/90119927/c34fa2b3-dea9-44fa-86b0-07eaf2940ce5" width="100"> | <img src="https://github.com/jvpigozzo/jvpigozzo/assets/90119927/9cdb92a9-27b9-4474-a08e-e33b423283cf" width="100">
