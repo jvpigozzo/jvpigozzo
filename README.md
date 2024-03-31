@@ -3,22 +3,11 @@
 #### I'm an Economist with a postgraduate degree in Data Science and a Software Engineer.
 #### Passionate about tech and data.
 
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvpigozzo&layout=compact"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="180"
-      src="https://github-readme-stats.vercel.app/api?username=jvpigozzo&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
-    />
-  </a>
-</p>
+### My GitHub Stats 💻
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvpigozzo&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![JV's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvpigozzo&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Programming Languages
 | <img src="https://github.com/jvpigozzo/jvpigozzo/assets/90119927/72a69196-8494-416e-a154-b855633a1bd1" width=60> | <img src="https://github.com/jvpigozzo/jvpigozzo/assets/90119927/60c30005-8f22-48c8-a1b9-7ffcc9b1badb" width=60> | <img src="https://github.com/jvpigozzo/jvpigozzo/assets/90119927/21a30e23-22f0-407f-933a-c71e67512af7" width=60>
