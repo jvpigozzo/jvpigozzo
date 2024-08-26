@@ -1,13 +1,12 @@
 # 👋 Hello, I'm João Vitor Pigozzo
 
-#### I'm an Economist turned Software Engineer with a postgraduate degree in Data Science, currently mastering Computer Science with a focus on AI.
-#### Passionate about leveraging tech and data to solve real-world problems.
+I'm an Economist turned Software Engineer with a postgraduate degree in Data Science, currently mastering Computer Science with a focus on AI.
+Passionate about leveraging tech and data to solve real-world problems.
 
-### My GitHub Stats 💻
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvpigozzo&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![JV's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvpigozzo&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvpigozzo&hide=java,html,css&theme=dracula" alt="Top Languages" style="width: 40%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jvpigozzo&theme=dracula" alt="GitHub Stats" style="width: 44%;"/>
+</div>
 
 ### Programming Languages
 - Python
